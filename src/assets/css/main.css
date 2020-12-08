@@ -1,0 +1,14 @@
+#app{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active{
+    font-weight: bold;
+}
+.btn-primary{
+    background-color: #00B0FF !important;
+    border: none !important;
+    color: #fff;
+    font-weight: 400;
+    margin-top:50px ;
+}
